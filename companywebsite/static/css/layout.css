@@ -4,7 +4,7 @@
 }
 body {
   background-color: whitesmoke;
-  color: #17421d;
+  color: #174217;
 }
 .container {
   width: 1080px;
@@ -21,11 +21,11 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("/static/img/wallpaper.png");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color:red;
 }
 
 .menu {
